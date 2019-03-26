@@ -8,6 +8,11 @@ npm install webpack-dev-server@2.11.3 -g
  
 # 运行
 webpack-dev-server --progress --colors
+
+# 打包命令
+npm run build
+# 启动
+npm run dev
 */
 document.write("It works.");
 
